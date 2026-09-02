@@ -1,5 +1,5 @@
 class Chain{
 	public Chain(){
-		System.out.println("Chain Is Gold");
+		System.out.println("Chain Is Golds");
 	}
 }
